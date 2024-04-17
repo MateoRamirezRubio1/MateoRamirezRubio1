@@ -48,6 +48,11 @@ I am a current student of Computer Science at EAFIT University, where I have bee
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Offerty&theme=tokyonight" alt="GitHub Stats" />
 </a>
 </div>
+<div>
+<a href="https://github.com/MateoRamirezRubio1/proxyInversoBalanceadorCarga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=proxyInversoBalanceadorCarga&theme=tokyonight" alt="GitHub Stats" />
+</a>
+</div>
 
 <!-- random dev joke -->
 <h2>✍️ Random dev joke for you!</h2>
