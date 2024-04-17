@@ -32,25 +32,25 @@ I am a current student of Computer Science at EAFIT University, where I have bee
 
 <!-- some of my repositories -->
 <h2> :open_file_folder: Some of my Repositories </h2>
-<div>
+<div align="center">
 <a href="https://github.com/MateoRamirezRubio1/Senior_Companion_Service">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Senior_Companion_Service&theme=tokyonight" alt="GitHub Stats" />
 </a>
+</div>
+<div>
 <a href="https://github.com/MateoRamirezRubio1/reto2DatosAlgoritmos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=reto2DatosAlgoritmos&theme=tokyonight" alt="GitHub Stats" />
 </a>
-</div>
-<div>
 <a href="https://github.com/MateoRamirezRubio1/ST0245-002">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=ST0245-002&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/MateoRamirezRubio1/Offerty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Offerty&theme=tokyonight" alt="GitHub Stats" />
 </a>
 </div>
 <div>
 <a href="https://github.com/MateoRamirezRubio1/proxyInversoBalanceadorCarga">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=proxyInversoBalanceadorCarga&theme=tokyonight" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/MateoRamirezRubio1/Offerty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Offerty&theme=tokyonight" alt="GitHub Stats" />
 </a>
 </div>
 
