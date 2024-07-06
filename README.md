@@ -46,7 +46,7 @@ I am a current student of Computer Science at EAFIT University, where I have bee
 </a>
 </div>
 <div>
-<a href="https://github.com/MateoRamirezRubio1/proxyInversoBalanceadorCarga">
+<a href="https://github.com/MateoRamirezRubio1/proyecto1Telematica2024-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=proxyInversoBalanceadorCarga&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/MateoRamirezRubio1/Offerty">
