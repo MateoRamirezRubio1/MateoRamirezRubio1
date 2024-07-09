@@ -13,6 +13,8 @@
 <!--- about me -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 I am a current student of Computer Science at EAFIT University, where I have been able to develop a high level of commitment and organization. I have been able to develop a high level of commitment and organization. different projects and proposed activities carried out as a team.
+<br>
+### You can find my blog here: [My blog](https://mateoramirezr.hashnode.dev).
 
 <!-- connect with me -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
