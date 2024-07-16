@@ -33,28 +33,8 @@ I am a current student of Computer Science at EAFIT University, where I have bee
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MateoRamirezRubio1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <!-- some of my repositories -->
-<h2> :open_file_folder: Some of my Repositories </h2>
-<div align="center">
-<a href="https://github.com/MateoRamirezRubio1/Senior_Companion_Service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Senior_Companion_Service&theme=tokyonight" alt="GitHub Stats" />
-</a>
-</div>
-<div>
-<a href="https://github.com/MateoRamirezRubio1/reto2DatosAlgoritmos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=reto2DatosAlgoritmos&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/MateoRamirezRubio1/ST0245-002">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=ST0245-002&theme=tokyonight" alt="GitHub Stats" />
-</a>
-</div>
-<div>
-<a href="https://github.com/MateoRamirezRubio1/proyecto1Telematica2024-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=proxyInversoBalanceadorCarga&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/MateoRamirezRubio1/Offerty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateoRamirezRubio1&repo=Offerty&theme=tokyonight" alt="GitHub Stats" />
-</a>
-</div>
+## :open_file_folder: Current project
+I am currently developing a chat app with real-time notifications with microservices architecture using FastAPI, websockets, JWT and Kafka in this repository: [Current project repository](https://github.com/MateoRamirezRubio1/real-time-chat-notifications-app).
 
 <!-- random dev joke -->
 <h2>✍️ Random dev joke for you!</h2>
