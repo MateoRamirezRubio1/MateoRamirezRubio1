@@ -74,7 +74,7 @@ I am a current student of Computer Science at EAFIT University, where I have bee
 -->
 
 <!-- connect with me -->
-## 💬 Let's Connect..!
+## 📫 Let's Connect..!
 <a href="mailto:matteo.dcj@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail%3A%20matteo.dcj-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
 </a>
