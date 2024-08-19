@@ -84,10 +84,13 @@ I am a current student of Computer Science at EAFIT University, where I have bee
 ---
 <div align = "center">
 	<a href="https://mateoramirezr.hashnode.dev" target="_blank">
-    		<img src="https://img.shields.io/badge/hashnode%3A%20my_blog-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" style="margin-bottom: 5px;" />
+  		<img src="https://img.shields.io/badge/hashnode-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" style="margin-bottom: 5px;" />
 	</a>
 	<a href="mailto:matteo.dcj@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/gmail%3A%20matteo.dcj-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://medium.com/@matteo.dcj" target="_blank">
+  		<img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/mateo-ramirez-rubio-8021aa236" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin%3A%20mateo_ramirez_rubio-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
